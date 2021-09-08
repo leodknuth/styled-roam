@@ -1626,6 +1626,15 @@
     cropperjs "1.5.7"
     preact "8.2.9"
 
+"@uppy/image-editor@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@uppy/image-editor/-/image-editor-0.4.0.tgz#43f1347cf65fb188f34fe01e9861838c4d29f3de"
+  integrity sha512-W6sFZSWjjx8+NmESPrbCOPK+svWES+T2Odrw6FV8MPZYs/k8hHlfKcqC2Dr+k1M2Ii1gVS7dSSAHEbEsurKoEQ==
+  dependencies:
+    "@uppy/utils" "^3.6.2"
+    cropperjs "1.5.7"
+    preact "8.2.9"
+
 "@uppy/informer@^1.6.3":
   version "1.6.3"
   resolved "https://registry.npm.taobao.org/@uppy/informer/download/@uppy/informer-1.6.3.tgz#c5c5e407b2fb5a10b37ce514a8373b90dce57264"
@@ -1761,6 +1770,14 @@
   version "3.5.0"
   resolved "https://registry.npm.taobao.org/@uppy/utils/download/@uppy/utils-3.5.0.tgz#0822f68e8a4c7e833a7ca9ddf387adbd3ea0535c"
   integrity sha1-CCL2jopMfoM6fKnd84etvT6gU1w=
+  dependencies:
+    abortcontroller-polyfill "^1.4.0"
+    lodash.throttle "^4.1.1"
+
+"@uppy/utils@^3.6.2":
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-3.6.2.tgz#78b02455b9c469d927d22736be5b68cda2600826"
+  integrity sha512-wGTZma7eywIojfuE1vXlT0fxPSpmCRMkfgFWYc+6TL2FfGqWInmePoB+yal6/M2AnjeKHz6XYMhIpZkjOxFvcw==
   dependencies:
     abortcontroller-polyfill "^1.4.0"
     lodash.throttle "^4.1.1"
