@@ -3328,10 +3328,10 @@ dateformat@^3.0.0, dateformat@^3.0.3:
   resolved "https://registry.nlark.com/dateformat/download/dateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
   integrity sha1-puN0maTZqc+F71hyBE1ikByYia4=
 
-dateformat@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.nlark.com/dateformat/download/dateformat-4.5.1.tgz#c20e7a9ca77d147906b6dc2261a8be0a5bd2173c"
-  integrity sha1-wg56nKd9FHkGttwiYai+ClvSFzw=
+dateformat@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-5.0.1.tgz#60a27a2deb339f888ba4532f533e25ac73ca3d19"
+  integrity sha512-DrcKxOW2am3mtqoJwBTK3OlWcF0QSk1p8diEWwpu3Mf//VdURD7XVaeOV738JvcaBiFfm9o2fisoMhiJH0aYxg==
 
 dayjs@^1.9.8:
   version "1.9.8"
